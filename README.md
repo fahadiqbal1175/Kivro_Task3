@@ -86,3 +86,9 @@ Sample Book JSON:
   "author": "James Clear",
   "year": 2018
 }
+
+## 📄 License
+This project is open-source and free to use for learning.
+
+## 👤 Author
+fahadiqbal1175
