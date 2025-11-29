@@ -69,7 +69,7 @@ npm start
 
 
 Frontend runs at:
-👉 http://localhost:3000
+👉 http://localhost:3001
 
 (CRA will proxy API requests to backend)
 
