@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+package-lock.json   # Optional: Keep this if you want to lock versions, remove if not.
+
+# Environment Variables (SENSITIVE)
+.env
+.env.local
+.DS_Store
+
+# Build Outputs
+/build
+/dist
+/coverage
